@@ -16,8 +16,8 @@ export default {
 
 <style>
 button {
-	background: #eb5353;
-	color: #f9d923;
+	background: #001D6E;
+	color: #FEE2C5;
 	border: 0;
 	padding: 1rem 1.5rem;
 }
